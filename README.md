@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Dinozafre
+- 👋 Hi, I’m hitman modder, you can call me Dinozafr
 - 👀 I’m interested in Hitman
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Dinozafre/Dinozafre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me write in Discord killer666new
